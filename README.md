@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adithyamukund
 - 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning Machine Learning Engineering.
-- 💞️ I’m looking to collaborate on TBD
+- 🌱 I’m currently working on @microsoft/SynapseML.
 - 📫 How to reach me: adikeepinitreal@gmail.com
 
 <!---
