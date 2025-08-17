@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@adithyamukund**
-- 👀 I’m interested in **Machine Learning** and **Data Science**.
-- 🌱 I’m currently an AI Resident at **Apziva**.
+- 👀 I’m interested in **Applied Machine Learning** and **Data Analytics**.
+- 🌱 I’m currently a Data Scientist at **Unify Consulting**.
 - 📫 How to reach me: **adithyamukund@msn.com**.
 - LinkedIn: https://www.linkedin.com/in/adithyamukund/
 
